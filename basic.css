@@ -1,0 +1,44 @@
+﻿basic.css
+
+.header
+{
+	color: #ff9900;
+	background-color: #996633;
+	text-align: center;
+	text-decoration: underlined;
+	right: 100%
+}
+
+
+.a
+{
+	color: #33cc33;
+}
+.b
+{
+	color: #66ff33;
+}
+
+/*so the links don't look ugly */
+a 
+{
+	color: #ff9900;
+	text-decoration: none;
+}
+
+a:hover 
+{
+	color:#ff9900; 
+	text-decoration:none; 
+	cursor:pointer;  
+}
+
+#su
+{
+	font-size: 2em;
+}
+
+#us
+{
+	font-size: 2ex;
+}
